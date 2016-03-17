@@ -1,0 +1,93 @@
+{
+    "Facet": [
+	"state",
+	"doc_source",
+	"agency",
+	"company",
+	"industry"
+	
+  ],
+    "Merge Categorical": [
+    ],
+    "Searchable": [
+	"full_name",
+	"state",
+	"doc_source",
+	"telephone",
+	"extension",
+	"fax",
+	"title",
+	"agency",
+	"email",
+	"facebook",
+	"linkedin",
+	"job_title",
+	"start_date",
+	"end_date",
+	"company",
+	"industry"
+	],
+    "In Search Results": [
+	"full_name",
+	"state",
+	"doc_source",
+	"telephone",
+	"extension",
+	"fax",
+	"title",
+	"agency",
+	"email",
+	"facebook",
+	"linkedin",
+	"job_title",
+	"start_date",
+	"end_date",
+	"company",
+	"industry"
+	],
+    "In Search Results by Default": [
+	"full_name",
+	"state",
+	"doc_source",
+	"telephone",
+	"extension",
+	"fax",
+	"title",
+	"agency",
+	"email",
+	"facebook",
+	"linkedin",
+	"job_title",
+	"start_date",
+	"end_date",
+	"company",
+	"industry"
+  ],
+    "On Doc Page": [
+	"full_name",
+	"state",
+	"doc_source",
+	"telephone",
+	"extension",
+	"fax",
+	"title",
+	"agency",
+	"email",
+	"facebook",
+	"linkedin",
+	"job_title",
+	"start_date",
+	"end_date",
+	"company",
+	"industry"
+  ],
+    "Item Field": [
+	"job_title",
+	"start_date",
+	"end_date",
+	"company",
+	"industry"
+  ],
+  "Truncate Text": [
+  ]
+}

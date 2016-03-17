@@ -1,0 +1,9 @@
+{
+  "Path Type": "Directory",
+  "Path": "/home/shidash/fbi_data/processed2",
+  "Index Name": "fbidhs",
+  "Dataset Name": "FBI/DHS Hack",
+  "Ignore Dir Import Ext": "_terms.json",
+  "Sort Field": "",
+  "Show Sort Field": "start_date"
+}

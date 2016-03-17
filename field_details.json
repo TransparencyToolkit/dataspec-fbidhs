@@ -1,0 +1,163 @@
+[
+  {
+    "Field Name": "full_name",
+    "Human Readable Name": "Name",
+    "Type": "String",
+    "Form Params": "full_name",
+    "Location": "0",
+    "Display Type": "Title",
+    "Icon": ""
+  },
+    {
+	"Field Name": "state",
+	"Human Readable Name": "State",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "state",
+	"Location": "28",
+	"Icon": "geopoint"
+    }, 
+    {
+	"Field Name": "doc_source",
+	"Human Readable Name": "Data Source",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "doc_source",
+	"Location": "30",
+	"Icon": "analysis"
+    },
+    {
+	"Field Name": "telephone",
+	"Human Readable Name": "Telephone",
+	"Type": "String",
+	"Display Type": "Shorter Text",
+	"Mapping": "english",
+	"Form Params": "telephone",
+	"Location": "1",
+	"Icon": "survey"
+    },
+    {
+    "Field Name": "extension",
+    "Human Readable Name": "Extension",
+    "Type": "String",
+    "Form Params": "extension",
+    "Display Type": "Shorter Text",
+    "Mapping": "english",
+    "Location": "2",
+    "Icon": "building"
+    },
+    {
+	"Field Name": "fax",
+	"Human Readable Name": "Fax",
+	"Type": "String",
+	"Display Type": "Shorter Text",
+	"Mapping": "english",
+	"Form Params": "fax",
+	"Location": "3",
+	"Icon": "survey"
+    },
+    {
+	"Field Name": "title",
+	"Human Readable Name": "Title",
+	"Type": "String",
+	"Form Params": "title",
+	"Display Type": "Short Text",
+	"Mapping": "english",
+	"Location": "1",
+	"Icon": "building"
+    },
+    {
+	"Field Name": "agency",
+	"Human Readable Name": "Agency",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "english",
+	"Form Params": "agency",
+	"Location": "30",
+	"Icon": "building"
+    },
+    {
+	"Field Name": "email",
+	"Human Readable Name": "Email",
+	"Type": "String",
+	"Form Params": "email",
+	"Display Type": "Shorter Text",
+	"Mapping": "english",
+	"Location": "2",
+	"Icon": "building"
+    },
+    {
+	"Field Name": "facebook",
+	"Human Readable Name": "Facebook",
+	"Type": "String",
+	"Display Type": "Link",
+	"Mapping": "english",
+	"Form Params": "facebook",
+	"Location": "1",
+	"Icon": "survey"
+    },
+    {
+	"Field Name": "linkedin",
+	"Human Readable Name": "Linkedin",
+	"Type": "String",
+	"Form Params": "linkedin",
+	"Display Type": "Link",
+	"Mapping": "english",
+	"Location": "2",
+	"Icon": "building"
+    },
+    {
+    "Field Name": "job_title",
+    "Human Readable Name": "Job Title",
+    "Type": "String",
+    "Form Params": "job_title",
+    "Display Type": "Shorter Text",
+    "Mapping": "english",
+    "Location": "5",
+    "Icon": ""
+  },{
+    "Field Name": "start_date",
+    "Human Readable Name": "Start Date",
+    "Type": "Date",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Form Params": [
+      "start_date",
+      "end_start_date"
+    ],
+    "Location": "3",
+    "Icon": ""
+  },{
+    "Field Name": "end_date",
+    "Human Readable Name": "End Date",
+    "Type": "Date",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Form Params": [
+      "end_date",
+      "end_end_date"
+    ],
+    "Location": "4",
+    "Icon": ""
+  },{
+    "Field Name": "company",
+    "Human Readable Name": "Company",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "company",
+    "Location": "5",
+    "Icon": "building"
+  },{
+    "Field Name": "industry",
+    "Human Readable Name": "Industry",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "industry",
+    "Location": "6",
+    "Icon": "industry"
+  }
+]
