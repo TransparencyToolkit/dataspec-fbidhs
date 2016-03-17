@@ -123,7 +123,7 @@
     "Human Readable Name": "Job Title",
     "Type": "String",
     "Form Params": "job_title",
-    "Display Type": "Shorter Text",
+    "Display Type": "Short Text",
     "Mapping": "english",
     "Location": "5",
     "Icon": ""
