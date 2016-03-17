@@ -4,10 +4,20 @@
     "Human Readable Name": "Name",
     "Type": "String",
     "Form Params": "full_name",
-    "Location": "0",
+      "Location": "0",
+      "Mapping": "english",
     "Display Type": "Title",
     "Icon": ""
   },
+    {
+	"Field Name": "id_field",
+	"Human Readable Name": "ID Field",
+	"Link": "mult_items",
+	"Type": "String",
+	"Mapping": "not_analyzed",
+	"Form Params": "id_field",
+	"Location": "1"
+    },
     {
 	"Field Name": "state",
 	"Human Readable Name": "State",
