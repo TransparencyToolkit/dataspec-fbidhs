@@ -26,7 +26,7 @@
 	"Mapping": "not_analyzed",
 	"Form Params": "state",
 	"Location": "28",
-	"Icon": "icon-map"
+	"Icon": "map"
     }, 
     {
 	"Field Name": "doc_source",
@@ -46,7 +46,7 @@
 	"Mapping": "english",
 	"Form Params": "telephone",
 	"Location": "1",
-	"Icon": "icon-telephone"
+	"Icon": "telephone"
     },
     {
     "Field Name": "extension",
@@ -56,7 +56,7 @@
     "Display Type": "Shorter Text",
     "Mapping": "english",
     "Location": "2",
-    "Icon": "building"
+    "Icon": "phone-extension"
     },
     {
 	"Field Name": "fax",
@@ -66,7 +66,7 @@
 	"Mapping": "english",
 	"Form Params": "fax",
 	"Location": "3",
-	"Icon": "survey"
+	"Icon": "fax"
     },
     {
 	"Field Name": "title",
@@ -86,7 +86,7 @@
 	"Mapping": "english",
 	"Form Params": "agency",
 	"Location": "30",
-	"Icon": "icon-agencies"
+	"Icon": "agencies"
     },
     {
 	"Field Name": "email",
@@ -96,7 +96,7 @@
 	"Display Type": "Shorter Text",
 	"Mapping": "english",
 	"Location": "2",
-	"Icon": "icon-email"
+	"Icon": "email"
     },
     {
 	"Field Name": "facebook",
